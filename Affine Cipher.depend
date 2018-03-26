@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519941761 source:c:\users\pc\desktop\assignment2\affine cipher\main.cpp
+	<iostream>
+	<cmath>
+	<numeric>
+	<algorithm>
+
